@@ -55,10 +55,14 @@ layout: default
 
           <!-- Selected papers -->
           {% if page.selected_papers -%}
-            <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications</a></h2>
+          <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected publications</a></h2>
           <p>* denotes joint first authors</p>
-            {%- include selected_papers.html %}
-          {%- endif %}
+          <!-- manually link to publications.md -->
+          <ul>
+            <li><a href="{{ '/publications/' | relative_url }}">View all publications</a></li>
+          </ul>
+        {%- endif %}
+
 
           <!-- Social -->
           {%- if page.social %}
