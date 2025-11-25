@@ -1,9 +1,9 @@
-----
+---
 layout: about
 title: About
-permalink: /about/
+permalink: /
 nav_order: 1
-----
+---
 
 subtitle: Research Intern, <a href='https://itu.edu.pk/'>Information Technology University</a>, Lahore - MSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan - BSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan.
 
