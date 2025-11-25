@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About
-permalink: /
+permalink: /about/
 
 nav_order: 1
 
