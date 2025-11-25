@@ -1,13 +1,12 @@
-
-
 ---
 layout: page
-permalink: /publications/
 title: Publications
-description: My research publications
+permalink: /publications/
 nav: true
-nav_order: 1
+nav_order: 2
+description: "List of my research publications."
 ---
+
 
 ## Publications
 
