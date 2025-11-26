@@ -5,7 +5,7 @@ permalink: /
 nav_order: 1
 
 
-subtitle: Research Intern, <a href='https://itu.edu.pk/'>Information Technology University</a>, Lahore - MSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan - BSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan.
+subtitle: Research Associate, <a href='https://itu.edu.pk/'>Information Technology University</a>, Lahore - MSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan - BSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan.
 
 profile:
   align: right
@@ -21,7 +21,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am Samra Nawazish, currently a Research Intern at <a href="https://im.itu.edu.pk/">Intelligent Machines Lab</a> at ITU supervised by <a href="https://waqassultani.github.io/">Dr. Waqas Sultani</a>. Previously, I completed my MSc in Software Engineering at the [UET Taxila](http://uettaxila.edu.pk/), where I was kindly supervised by [Dr. Ali Javed](https://fms.uettaxila.edu.pk/Profile/ali.javed).
+Hi, I am Samra Nawazish, currently a Research Associate at <a href="https://im.itu.edu.pk/">Intelligent Machines Lab</a> at ITU supervised by <a href="https://waqassultani.github.io/">Dr. Waqas Sultani</a>. Previously, I completed my MSc in Software Engineering at the [UET Taxila](http://uettaxila.edu.pk/), where I was kindly supervised by [Dr. Ali Javed](https://fms.uettaxila.edu.pk/Profile/ali.javed).
 
 My research focuses on the analysis of medical images for disease prediction and classification, particularly in settings with limited labeled data (few shot/zero shot). I work on developing deep learning methods that can extract clinically meaningful features from modalities such as MRI, microscopy, and histopathology images. The goal is to enable accurate diagnosis using few-shot and data-efficient approaches, reducing reliance on large annotated datasets while improving model generalization to rare conditions and real-world clinical variations. 
 
