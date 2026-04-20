@@ -5,7 +5,7 @@ permalink: /
 nav_order: 1
 
 
-subtitle: PhD Candidate, <a href='https://www.uaeu.ac.ae/'>UAEU</a>,Abu Dhabi, UAE - MSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan - BSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan.
+subtitle: PhD Candidate, <a href='https://www.uaeu.ac.ae/'>UAEU</a>, Abu Dhabi, UAE - MSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan - BSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan.
 
 profile:
   align: right
