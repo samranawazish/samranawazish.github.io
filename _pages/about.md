@@ -11,7 +11,7 @@ profile:
   align: right
   image: Samra.jpg
   image_circular: false
-  <p align="center">Abu Dhabi, UAE</p>
+  address: "Abu Dhabi, UAE"
 
 
 news: true  # includes a list of news items
