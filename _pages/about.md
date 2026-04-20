@@ -27,5 +27,5 @@ My research focuses on the analysis of medical images for disease prediction and
 
 Currently, I am working on microscopic image enhancement and stitching, as well as medical data segmentation and detection, with a focus on improving the quality and reliability of biomedical image analysis. My work involves developing data-efficient deep learning methods that support disease prediction and clinical decision-making, even when annotated samples are limited.
 
- <a href="mailto:samra5677@gmail.com">Email</a>  /  <a href="https://scholar.google.com/citations?user=4CTqHRUAAAAJ&hl=en">Google Scholar</a>  /  <a href="https://github.com/samranawazish">Github</a>  / <a href="/assets/pdf/CV_Samra.pdf">CV</a> 
+ <a href="mailto:samra5677@gmail.com">Email</a>  /  <a href="https://scholar.google.com/citations?user=4CTqHRUAAAAJ&hl=en">Google Scholar</a>  /  <a href="https://github.com/samranawazish">Github</a>  / <a href="/assets/pdf/CV_Samra1.pdf">CV</a> 
 

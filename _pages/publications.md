@@ -6,6 +6,9 @@ nav: true
 nav_order: 2
 ---
 
+### Toward Intelligent Breast Cancer Screening: Harnessing Capsule Networks for Robust Detection
+**Authors:** Samra Nawazish*, Muhammad Zulkifl Hasan, Muhammad Amir Shahis, Noor Ul Hira, Nadeem Sarwar  
+**Conference:** IEEE International Conference on Data Science, Machine Learning and Intelligence (DataSciMI) , 2026  
 
 ### Deep Learning Model for the detection and classification of Diabetic Retinopathy
 **Authors:** Samra Nawazish*, Ali Javed, Tahira Nazir  
