@@ -7,11 +7,14 @@ nav_order: 1
 
 subtitle: PhD Candidate, <a href='https://www.uaeu.ac.ae/'>UAEU</a>, Abu Dhabi, UAE - MSc and BSc from <a href='http://uettaxila.edu.pk/'>UET Taxila</a>, Pakistan.
 
+
+ 
 profile:
   align: right
   image: Samra.jpg
-  image_circular: false
-  address: "Abu Dhabi, UAE"
+  image_circular: false # crops the image to make it circular
+  address: >
+    <p>Abu Dhabi, UAE </p>
 
 
 news: true  # includes a list of news items
