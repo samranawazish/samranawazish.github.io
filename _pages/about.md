@@ -14,7 +14,7 @@ profile:
   image: Samra.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Al Ain, UAE </p>
+    <p style="text-align:center;">Al Ain, UAE</p>
 
 
 news: true  # includes a list of news items
