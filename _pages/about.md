@@ -28,7 +28,7 @@ I completed my MSc in Software Engineering at <a href="http://uettaxila.edu.pk/"
 
 My research focus is on medical image analysis for disease prediction and classification, including segmentation, detection, image enhancement, and image stitching across modalities such as MRI, microscopy, and histopathology. The goal is to develop robust deep learning models that improve image quality and support reliable clinical decision-making.
 
-Currently, my research focuses on Brain-Computer Interface (BCI) systems, particularly decoding and reconstructing speech from brain signals using EEG and ECoG, with an emphasis on AI and deep learning methods for neural signal understanding. My work lies at the intersection of artificial intelligence, cognitive neuroscience, and neuroengineering, with applications in assistive communication and neurorehabilitation.
+Currently, my research focuses on Brain-Computer Interface (BCI) systems, AI-based neural decoding, particularly speech and imagined-speech decoding from brain signals, with an emphasis on large-scale pretraining and cross-subject generalization.
 
  <a href="mailto:700051906@uaeu.ac.ae">Email</a>  /  <a href="https://scholar.google.com/citations?user=4CTqHRUAAAAJ&hl=en">Google Scholar</a>  /  <a href="https://github.com/samranawazish">Github</a>  / <a href="/assets/pdf/CV_Samra2.pdf">CV</a> 
 
